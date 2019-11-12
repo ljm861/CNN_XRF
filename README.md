@@ -6,4 +6,4 @@
 ```bash
 python cnn2d.py
 ```
->> output shape : torch.Size([8, 1, 20, 20])
+> output shape : torch.Size([8, 1, 20, 20])
