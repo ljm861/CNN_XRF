@@ -1,5 +1,5 @@
 # CNN_XRF
-2D CNN model for X-ray Fluorescence (XRF) imaging of gold nanoparticles
+Application of 2D Convolutional Neural Network (CNN) model to X-ray Fluorescence (XRF) imaging of gold nanoparticles
 
 ## Requirements
 * Python (>3.5)
