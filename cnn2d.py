@@ -96,7 +96,7 @@ class CNN2D(nn.Module):
             elif isinstance(m, nn.BatchNorm2d):
                 m.apply(weights_init_kaiming)
 
-        print("------SD_CNN2D Init Done------")
+        print("------CNN2D Init Done------")
 
     def forward(self, input):
         increase_1 = self.increase_1(input)
